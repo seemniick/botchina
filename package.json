@@ -1,0 +1,17 @@
+{
+  "name": "botchinav1.5",
+  "version": "1.0.0",
+  "description": "Bot de automação para criação de contas em plataformas chinesas para CPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seemniick",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "puppeteer": "^23.2.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-proxy": "^1.0.2"
+  }
+}

@@ -1,0 +1,9 @@
+Tutorial de como usar o Bot China
+
+Primeiro baixe o NodeJs: https://nodejs.org/dist/v20.16.0/node-v20.16.0-x64.msi
+Instale, após instalar volte a pasta do bot e abre o "iniciar.bat"
+
+E só preencher as informações.
+
+Qualquer dúvida, sugestão ou adicionamento de casa mande mensagem pelo Telegram:
+https://t.me/seemniick
