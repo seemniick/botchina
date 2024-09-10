@@ -1,7 +1,8 @@
 Tutorial de como usar o Bot China
 
 Primeiro baixe o NodeJs: https://nodejs.org/dist/v20.16.0/node-v20.16.0-x64.msi
-Instale, após instalar volte a pasta do bot e abre o "iniciar.bat"
+Segundo instale o Google Chrome
+Após baixar e instalar o node js e o google volte a pasta do bot e abre o "iniciar.bat"
 
 E só preencher as informações.
 
@@ -9,4 +10,4 @@ Qualquer dúvida, sugestão ou adicionamento de casa mande mensagem pelo Telegra
 https://t.me/seemniick
 
 
-Para adquirir as proxys, você pode estar comprando por aqui: https://iproyal.com/?r=449034
+Para adquirir as proxys, você pode estar comprando por aqui: https://iproyal.com/?r=449034 ou por outra plataforma.
