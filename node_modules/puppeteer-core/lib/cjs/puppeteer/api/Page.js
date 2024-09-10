@@ -976,7 +976,6 @@ let Page = (() => {
             try {
                 const _guard = __addDisposableResource(env_2, await this.browserContext().startScreenshot(), false);
                 await this.bringToFront();
-                // TODO: use structuredClone after Node 16 support is dropped.
                 const options = {
                     ...userOptions,
                     clip: userOptions.clip
