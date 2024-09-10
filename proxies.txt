@@ -1,0 +1,3 @@
+Coloque aqui a lista de sua proxies nesse formato:
+
+127.0.0.1:30001:PROXIES:PROXIES123
